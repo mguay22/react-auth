@@ -1,0 +1,9 @@
+.container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-field {
+  margin: 15px !important;
+}
